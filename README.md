@@ -14,7 +14,7 @@ To run these scripts locally, ensure you have the following installed:
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone [<repository_url>](https://github.com/adilsameer/pump_fun_automation)
+   git clone https://github.com/adilsameer/pump_fun_automation
    ```
 2. Install dependencies:
    ```bash
